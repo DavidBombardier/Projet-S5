@@ -5,7 +5,7 @@
 #include "App2Lib.h"
 #include <math.h>
 
-Allo Laurier
+allo steve et Laurier
 
 void main()
 
