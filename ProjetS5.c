@@ -5,8 +5,6 @@
 #include "App2Lib.h"
 #include <math.h>
 
-    int TabDonnees[8] ={1,2,3,4,5,6,7,8};
-#pragma DATA_ALIGN(TabDonnees,32);
 
 void main()
 
